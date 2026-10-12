@@ -14,6 +14,10 @@ sequence inputs, Pfam databases or server-access credentials.
 - `docs/`: input contracts, recorded parameters and code provenance.
 - `tests/`: small synthetic unit tests without biological sequence inputs.
 
+Release v1.1.0 adds matched annotation BUSCO benchmarks, published-proteome
+domain validation, motif/domain overlap and predefined sequence-pattern checks,
+and corrects the historical OrthoFinder invocation from the recovered run log.
+
 ## Run
 
 Use a Linux environment for the external bioinformatics tools. The environment

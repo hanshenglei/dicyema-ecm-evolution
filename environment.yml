@@ -6,7 +6,6 @@ dependencies:
   - python=3.11
   - hmmer=3.4
   - blast=2.17.0
-  - orthofinder=2.5.5
   - mafft
   - trimal
   - iqtree=2
