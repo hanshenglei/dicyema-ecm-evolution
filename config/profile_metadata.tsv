@@ -1,0 +1,41 @@
+group	NAME	ACC	DESC	LENG	GA	DATE	sha256
+actin	Actin	PF00022.23	Actin	410	27 27;	Mon May 29 00:12:28 2023	c0fcabc2b3b97c714065d8d3f743bb515620521f08c534fbf46009c593efbf37
+collagenIV_NC1	C4	PF01413.23	C-terminal tandem repeated domain in type 4 procollagen	110	27 27;	Wed May  3 21:49:10 2023	029919dd5b19532e783dc52d99ecd0557e20d1fcadb3282eec8d1dff3ab38181
+cadherin_core	Cadherin	PF00028.21	Cadherin domain	93	28.8 28.8;	Thu Jun  1 10:37:45 2023	1505d110d813bf41c7ba732a2d7a3f16e7075bbdb191a967979106cf21b38e10
+cadherin_core	Cadherin-like	PF12733.11	Cadherin-like beta sandwich domain	89	24.2 24.2;	Thu Jun  1 07:37:43 2023	4a705d1b4f72848aa5b6f4fd5ad37eb3ab19c8c35327062407004d1415f3d205
+cadherin_core	Cadherin_2	PF08266.16	Cadherin-like	83	23 23;	Thu Jun  1 07:57:15 2023	4b70adc00cdddcff3a39d74fdbe896b958a47580deefb9273a0dae428735dee9
+cadherin_core	Cadherin_3	PF16184.9	Cadherin-like	111	25.5 25.5;	Sun May 28 09:42:13 2023	06c66b7e2878979a3fb91502ba3e6620a9379d90075fcd09641b3a2d3d68daf4
+cadherin_core	Cadherin_5	PF17892.5	Cadherin-like domain	98	26.5 26.5;	Thu Jun  1 08:54:35 2023	34c2757065b33c9564043343698d3c29252cf01275b7f48834ddc65d6a0a23fa
+cadherin_aux	Cadherin_C_2	PF16492.9	Cadherin cytoplasmic C-terminal	85	31.5 31.5;	Fri Apr 28 11:17:41 2023	c50a0f084f60e98b377a198ea2da09fe97cab032202e021955aeada55cbcf3ac
+cadherin_aux	Cadherin_pro	PF08758.15	Cadherin prodomain like	90	23 23;	Thu Jun  1 07:20:55 2023	536054874fc4249423c1ab5cb89505d53197f7e489506117cd440ae7f09829ec
+cadherin_aux	Cadherin_tail	PF15974.9	Cadherin C-terminal cytoplasmic tail, catenin-binding region	134	22 22;	Fri Apr 28 10:58:13 2023	d87c7f9bb7eb63f667c5ff94b32e8b1b689d6a116c303f4cb78c62f98dc496d9
+fibrillar_collagen_C	COLFI	PF01410.22	Fibrillar collagen C-terminal domain	233	26.2 26.2;	Sat Apr 29 15:03:24 2023	be6fb47a29eda2d71fc6c3fe9d4451126d4fc63c1fc903d8f2d327d03324fe1c
+collagen_repeat	Collagen	PF01391.22	Collagen triple helix repeat (20 copies)	60	27.2 27.2;	Fri Apr 28 14:01:44 2023	334542acc0e435713b55921ee5b2bc816fda5b6f61ff0979d7dd865b2bfafa4a
+cadherin_core	ECD	PF18432.5	Extracellular Cadherin domain	110	25 25;	Thu Jun  1 09:01:59 2023	38502b58a1375aafa7a67d45a77575c5f094519794902d7304c39642ffc4244f
+shared_EGF	EGF	PF00008.31	EGF-like domain	32	21.5 21.5;	Thu Feb  2 14:58:51 2023	903f0baa73e8b141e1500f728e23d47997ddcbd98384d35780cec30119e61da2
+shared_EGF	EGF_CA	PF07645.19	Calcium-binding EGF domain	43	27 16.3;	Thu Dec  8 18:09:32 2022	3097a1c36f22d4301c520ae523fc29d6533b27b394dddd04274c77858b3cf84e
+integrin_alpha_FG_GAP	FG-GAP	PF01839.27	FG-GAP repeat	37	22.1 22.1;	Tue Jul  4 16:19:05 2023	d1ecab8545a94bf93bd6b3e6398fe1335aabe8fa6f3a3547f33f28c71e126cd1
+integrin_alpha_FG_GAP	FG-GAP_2	PF14312.10	FG-GAP repeat	49	23 23;	Wed Jul  5 00:50:18 2023	22bddb2c3abd5bb42f33cd7037e32bd4fe1d4c818ec1dec5a5ef93941d1b1f27
+shared_EGF	hEGF	PF12661.11	Human growth factor-like EGF	22	29.3 13.6;	Mon Dec 12 10:03:58 2022	415c57a6369fe2cc48a13941632c7f2d6b57850400e55de826865b9848027859
+integrin_beta_aux	I-EGF_1	PF18372.5	Integrin beta epidermal growth factor like domain 1	29	26.1 26.1;	Sat Apr 29 15:06:42 2023	26629a29f02683472603d773a8ce5d651a64c8e069af9b54667bb0149fb5035f
+integrin_alpha_aux	Integrin_alpha	PF00357.24	Integrin alpha cytoplasmic region	15	20.2 10;	Tue May  9 15:34:00 2023	019237cd589c249b89e9ce794c4a5b6502b71a31ece7d0299f68048f00f0bc57
+integrin_alpha_aux	Integrin_A_Ig_1	PF08441.16	Integrin alpha Ig-like domain 1	157	26 26;	Thu Jun  1 07:43:58 2023	f01343381b8b45f27e1570324b70e5f921a203235eb4306ec00f21a98cea00f0
+integrin_alpha_aux	Integrin_A_Ig_2	PF20805.1	Integrin alpha Ig-like domain 2	145	24 24;	Thu Jun  1 09:17:23 2023	e3f438c299632cfa6ecf54b3822612087010ad209a36a1eb4162691d92420f35
+integrin_alpha_aux	Integrin_A_Ig_3	PF20806.1	Integrin alpha Ig-like domain 3	222	23.6 23.6;	Thu Jun  1 09:25:18 2023	68f0a00f3a87ed664ba158a121f5af8a525bdeac4a5660f4f6be21533fd894c9
+integrin_beta_core	Integrin_beta	PF00362.22	Integrin beta chain VWA domain	248	24.8 24.8;	Thu May  4 15:56:46 2023	0950c7a14e4b65c0e83fb0a26b33f6f144387b6374d54a10794baa760169c692
+integrin_beta_aux	Integrin_b_cyt	PF08725.15	Integrin beta cytoplasmic domain	44	23.4 23.4;	Thu Apr 27 23:17:41 2023	84c828136eb795d3ade497b3f85b2fa6a59e718e5e56756055e495f095f2732e
+integrin_beta_aux	Integrin_B_tail	PF07965.16	Integrin beta tail domain	84	33.6 33.6;	Thu Apr 27 21:21:36 2023	e63ca2f7210ef60ca20acb10822d57aa9d27c6487b4eb1295d42414864e34f9e
+laminin_other	Laminin_B	PF00052.22	Laminin B (Domain IV)	136	22.4 22.4;	Fri Dec  9 12:48:52 2022	ae5d3658cb371a5c8dcceedaaf574058969ce50d0992b2d6cddc1ffbb628556b
+laminin_EGF	Laminin_EGF	PF00053.28	Laminin EGF domain	49	21 13.4;	Wed Dec  7 17:16:44 2022	d538e1892a903cac1c100036e5fbfa4950e99d6ffcb35aec73138497698997bc
+laminin_G	Laminin_G_1	PF00054.27	Laminin G domain	131	24 24;	Fri Jun  2 09:25:04 2023	27bf567c859a3d507e61db4a671b94b47515a099f95caa38f53a34ff02595ab5
+laminin_G	Laminin_G_2	PF02210.28	Laminin G domain	126	22.9 22.9;	Thu Jun  1 17:51:48 2023	e1214761ab009a3163c632572cc5e60184bf1006e6a11f5d707d3996992382e4
+laminin_other	Laminin_I	PF06008.18	Laminin Domain I	259	34.6 34.6;	Thu Apr 27 16:47:11 2023	a768554d5f2e4ca62fa840777691b02cb8e27b94726b3082cc0db1b31f52979c
+laminin_other	Laminin_II	PF06009.16	Laminin Domain II	138	33 33;	Sun Dec  4 12:50:56 2022	2f83ed03e543d1423bdcb62d78e16df69d86addfdf0fbd8de4c414ffd546f74d
+laminin_other	LAMININ_IV_B	PF21199.1	Laminin IV type B domain	210	27 27;	Thu Jun  1 18:32:32 2023	0b64d4fad481b3806672aa92d413427a4cd079a2cd61fe65e9fedc4dc78d4cac
+laminin_N	Laminin_N	PF00055.21	Laminin N-terminal (Domain VI)	233	25.9 25.9;	Thu Jun  1 17:56:41 2023	b0b8eef4dcd1f89d1fd392f225bb0ba21cd8cfbab32da8a46bb09c495e62aa5a
+myosin_head	Myosin_head	PF00063.25	Myosin head (motor domain)	679	33.3 33.3;	Thu Jul  6 13:06:52 2023	cb4262c191b6540dc736f94cafff5baeff8ceed1c8e723fe4da285b169c4f3a6
+cadherin_aux	Protocadherin	PF08374.15	Protocadherin	217	26.3 26.3;	Thu Apr 27 21:54:38 2023	e95bf878f914de28f1bf2f0c1989f4620a21f37d4a9768a37b24226cd3eb6d64
+integrin_beta_aux	PSI_integrin	PF17205.7	Integrin plexin domain	47	27 27;	Tue May  9 17:31:20 2023	cd30cabbc1d321132fbfd9e178cda5668ae88d7ea1bc5f6a156351ebc0d06eb5
+tropomyosin	Tropomyosin	PF00261.24	Tropomyosin	242	38.6 38.6;	Sun Jul 16 09:26:40 2023	43397576f035597bdf633674b49bc37e1aceba56fcb197e66b5f4696bec14448
+troponin	Troponin	PF00992.24	Troponin	134	26.2 26.2;	Wed Apr 26 22:40:32 2023	25f257cfe1880fbe00e6bb04ebddda70674dae3d1d0f720c2c5466664eb2ef97
+troponin	Troponin-I_N	PF11636.12	Troponin I residues 1-32	32	26 26;	Mon Apr 24 00:33:17 2023	ac1edfe8826ff48962bb89db58a7b55d556f8e3cc8b86ab3542f9a639a7a86ac
